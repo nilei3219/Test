@@ -7,6 +7,7 @@
 int main(void)
 {
     int ret = -1;
+	//te
 
     MYSQL *mysql = NULL; 
 
